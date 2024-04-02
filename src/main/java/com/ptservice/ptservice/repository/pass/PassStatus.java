@@ -1,4 +1,5 @@
 package com.ptservice.ptservice.repository.pass;
 
-public class PassStatus {
+public enum PassStatus {
+    READY, PROGRESSED, EXPIRED
 }
