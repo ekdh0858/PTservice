@@ -1,4 +1,5 @@
 package com.ptservice.ptservice.repository.user;
 
-public class UserStatus {
+public enum UserStatus {
+    ACTIVE, INACTIVE
 }

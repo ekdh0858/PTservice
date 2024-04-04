@@ -1,6 +1,6 @@
 package com.ptservice.ptservice.job.pass;
 
-import com.ptservice.ptservice.pass.config.TestBatchConfig;
+import com.ptservice.ptservice.config.TestBatchConfig;
 import com.ptservice.ptservice.repository.pass.PassEntity;
 import com.ptservice.ptservice.repository.pass.PassRepository;
 import com.ptservice.ptservice.repository.pass.PassStatus;
