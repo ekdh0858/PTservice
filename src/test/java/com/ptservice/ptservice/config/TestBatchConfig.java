@@ -1,4 +1,4 @@
-package com.ptservice.ptservice.pass.config;
+package com.ptservice.ptservice.config;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
